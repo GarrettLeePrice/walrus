@@ -1,0 +1,13 @@
+.clickable {
+  cursor: crosshair;
+  font-weight: bold;
+  color: #3399ff;
+}
+
+.clickable:hover {
+  text-decoration: none;
+}
+
+#image-hidden {
+  display: none;
+}
