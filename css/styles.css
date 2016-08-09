@@ -22,3 +22,9 @@
   font-weight: bold;
   color: #3399ff;
 }
+
+.container {
+  text-align: center;
+  background-color: #e6ffff;
+  margin-top: 100px;
+}
